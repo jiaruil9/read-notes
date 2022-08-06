@@ -3,7 +3,7 @@
 - Focus on **User Interactive Design** with minimum backend server and no database.
 - Built with primitive html, css, jquery, and flask
 
-## Interactive instance host on [Piano 2022](http://3.94.149.232:80)
+## Interactive instance host on [Piano 2022](http://3.95.194.184:80)
 
 ## [Video Demo](https://youtu.be/ZABlmQMUkV8)
 
